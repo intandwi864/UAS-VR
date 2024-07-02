@@ -1,3 +1,3 @@
-# Pantai
-Virtual Reality Tour Pantai
+# Wisata
+Virtual Reality Tour Wisata
 
